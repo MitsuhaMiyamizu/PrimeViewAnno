@@ -1,0 +1,16 @@
+Package: primeview.db
+Title: Affymetrix ChipName not specified annotation data (chip primeview)
+Description: Affymetrix ChipName not specified annotation data (chip primeview) assembled using data from public repositories
+Version: 0.99.1
+Author: Bioconductor
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.52.0), org.Hs.eg.db (>= 3.12.0)
+Suggests: DBI, annotate, RUnit
+Imports: methods, AnnotationDbi
+License: Artistic-2.0
+organism: Homo sapiens
+species: Human
+manufacturer: Affymetrix
+chipName: ChipName not specified
+manufacturerUrl: http://www.affymetrix.com
+biocViews: ChipDb, AnnotationData, AffymetrixChip, Homo_sapiens, primeview
